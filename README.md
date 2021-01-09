@@ -40,7 +40,7 @@ Models : [Drive Link](https://drive.google.com/file/d/1NSGToSjVXuteDxHV7ROj_pfpT
 
 ### Usage
 
-1. Please download our pretrained model at [Drive Link](https://drive.google.com/open?id=1GsS95QmhC0_WIuf-dhNHkMXbiMN4HwZd).   
+1. Please download our pretrained model at [Drive Link](https://drive.google.com/file/d/1NSGToSjVXuteDxHV7ROj_pfpT8B_T0WO/view?usp=sharing).   
    Put this model in `./model/` and `./reimg/`.
 
 2. Run:   `test.py`
