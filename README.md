@@ -32,11 +32,11 @@ cd mmdetection
 
 4. RPN models are available in the [Model](https://github.com/NANSHANB/GARP/blob/master/MODEL_ZOO.md)
 
-### Datasets and Results:
+### Datasets and Models:
 
-Dataset : [Github Link](https://github.com/360-SSOD/download/data.zip)
+360-SSOD : [Drive Link](https://drive.google.com/file/d/1jTSAnok9nUbEO8FP9V2C70GztNdkWWGw/view?usp=sharing)
 
-Results : [Drive Link](https://drive.google.com/open?id=1g60896zUp_HtQqAV28sAS5rEWrAR71aw) 
+Models : [Drive Link](https://drive.google.com/file/d/1NSGToSjVXuteDxHV7ROj_pfpT8B_T0WO/view?usp=sharing) 
 
 
 ### Usage
