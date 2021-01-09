@@ -8,7 +8,6 @@
 - NCCL 2+
 - GCC 4.9+
 - [mmcv](https://github.com/open-mmlab/mmcv)
-- Caffe
 
 We have tested the following versions of OS and softwares:
 
