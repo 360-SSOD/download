@@ -7,7 +7,7 @@
 - CUDA 9.0+
 - NCCL 2+
 - GCC 4.9+
-- [mmcv](https://github.com/open-mmlab/mmcv)
+- mmcv
 
 We have tested the following versions of OS and softwares:
 
