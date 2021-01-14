@@ -26,7 +26,6 @@ We have tested the following versions of OS and softwares:
 
 ```shell
 git clone https://github.com/360-SSOD/download.git
-cd mmdetection
 ```
 
 4. RPN models are available in the [Model](https://github.com/NANSHANB/GARP/blob/master/MODEL_ZOO.md)
