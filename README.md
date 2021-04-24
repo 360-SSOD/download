@@ -32,18 +32,18 @@ git clone https://github.com/360-SSOD/download.git
 
 ### Results
 
-360-SOD&360-SSOD [Drive Link(is3k)](https://pan.baidu.com/s/1YGyQuzrkL2pi6AWGL49jSQ)
+360-SOD&360-SSOD [Baidu Cloud Link(is3k)](https://pan.baidu.com/s/1YGyQuzrkL2pi6AWGL49jSQ)
 
 ### Datasets and Models:
 
 360-SSOD : [Drive Link](https://drive.google.com/file/d/1jTSAnok9nUbEO8FP9V2C70GztNdkWWGw/view?usp=sharing)
 
-Models : [Drive Link(5a3p)](https://pan.baidu.com/s/158P6FhWjpZGnQMMEmz6OPA)
+Models : [Baidu Cloud Link(5a3p)](https://pan.baidu.com/s/158P6FhWjpZGnQMMEmz6OPA)
 
 
 ### Usage
 
-1. Please download our pretrained model at [Drive Link](https://drive.google.com/file/d/1NSGToSjVXuteDxHV7ROj_pfpT8B_T0WO/view?usp=sharing).   
+1. Please download our pretrained model.   
    Put this model in `./model/` and `./reimg/`.
 
 2. Run:   `test.py`
