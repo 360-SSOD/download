@@ -36,7 +36,7 @@ git clone https://github.com/360-SSOD/download.git
 
 ### Datasets and Models:
 
-360-SSOD : [Drive Link](https://drive.google.com/file/d/1jTSAnok9nUbEO8FP9V2C70GztNdkWWGw/view?usp=sharing)
+360-SSOD : [Drive Link(a947)](https://pan.baidu.com/s/1y8pQMSuhCsN_KBUw0E35GQ )
 
 Models : [Baidu Cloud Link(ky46)](https://pan.baidu.com/s/1-H0WaWIyCML6L_gb0SwfSg)
 
