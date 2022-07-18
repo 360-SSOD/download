@@ -32,13 +32,11 @@ git clone https://github.com/360-SSOD/download.git
 
 ### Results
 
-360-SOD&360-SSOD [Baidu Cloud Link(bjk4)](https://pan.baidu.com/s/1bgkIEnkNVwQpjiBqLv81bQ)
+360-SOD&360-SSOD [Baidu Cloud Link](https://pan.baidu.com/s/1ivAKHceZrh5uHRiKLiHcTw?pwd=c7n7)
 
-### Datasets and Models:
+### Datasets
 
-360-SSOD : [Baidu Cloud Link(p3b2)](https://pan.baidu.com/s/1xPx2OVfvRXp2ZJwjA3MtLw)
-
-Models : [Baidu Cloud Link(j9gx)](https://pan.baidu.com/s/1GcSzPuEAxNywF18zMX_gZg)
+360-SSOD : [Baidu Cloud Link](https://pan.baidu.com/s/1ivAKHceZrh5uHRiKLiHcTw?pwd=c7n7)
 
 
 ### Usage
