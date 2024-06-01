@@ -32,11 +32,11 @@ git clone https://github.com/360-SSOD/download.git
 
 ### Results
 
-360-SOD&360-SSOD [Baidu Cloud Link](https://pan.baidu.com/s/1ivAKHceZrh5uHRiKLiHcTw?pwd=c7n7)
+360-SOD&360-SSOD [Tencent Cloud Link](https://exmail.qq.com/cgi-bin/ftnExs_download?k=7732363227940cc7a829dea947340117000a06055500500f1a0406075919005b04051b5059010c1503020e03500d04005556000a613f346a5241435e15471a425e42360f&t=exs_ftn_download&code=7262a448)
 
 ### Datasets
 
-360-SSOD : [Baidu Cloud Link](https://pan.baidu.com/s/1ivAKHceZrh5uHRiKLiHcTw?pwd=c7n7)
+360-SSOD : [Tencent Cloud Link](https://exmail.qq.com/cgi-bin/ftnExs_download?k=756433614ffce79eab7fdbfa1434574b57570a020a005a06195503055619565155021e03505154490456035102075107035605563238625702541e32617b264a4e0d43610f&t=exs_ftn_download&code=4d3a24bd)
 
 
 ### Usage
